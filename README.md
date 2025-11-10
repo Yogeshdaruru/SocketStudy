@@ -1,6 +1,6 @@
 # Ex.No:1 - a Study of Socket Programming
-### NAME : RAKSHA DHARANIKA V
-### REG NO : 212223230167
+### NAME : Dharuru Yogesh
+### REG NO : 212224230063
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
